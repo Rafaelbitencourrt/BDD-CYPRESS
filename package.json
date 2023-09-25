@@ -1,0 +1,26 @@
+{
+  "name": "bdd-cypress",
+  "version": "1.0.0",
+  "description": "bdd + cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafaelbitencourrt/BDD-CYPRESS.git"
+  },
+  "keywords": [
+    "cypress",
+    "cucumber"
+  ],
+  "author": "Rafael Bitencourt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafaelbitencourrt/BDD-CYPRESS/issues"
+  },
+  "homepage": "https://github.com/Rafaelbitencourrt/BDD-CYPRESS#readme",
+  "devDependencies": {
+    "cypress": "^13.2.0"
+  }
+}
