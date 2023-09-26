@@ -2,6 +2,8 @@
 
 O BDD-CYPRESS é um ambiente de desenvolvimento de software que combina a estrutura de teste automatizado fornecida pelo Cypress com a metodologia de desenvolvimento BDD (Behavior-Driven Development).
 
+![Logo do Projeto](https://digitalpress.fra1.cdn.digitaloceanspaces.com/omtmgjm/2020/09/cypress-1.png)
+
 ## Conteúdo abordado
 
 O conteúdo deste projeto abrange os seguintes tópicos:
